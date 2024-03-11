@@ -27,12 +27,9 @@ Options:
 
 ## Installation
 
-Club requires Python 3.6 or higher. To install, run:
-
+Club requires Rust to be installed. Then, run:
 ```bash
-git clone https://github.com/ProbablyFaiz/club
-cd club
-python3 -m pip install .
+cargo install club-rs
 ```
 
 ## Usage
