@@ -1,9 +1,16 @@
 [package]
 name = "club-rs"
+description = "A command-line utility for managing Clasp remotes for Google Apps Script projects."
+readme = "README.md"
+license = "MIT"
+homepage = "https://github.com/ProbablyFaiz/club.rs"
+documentation = "https://github.com/ProbablyFaiz/club.rs"
+repository = "https://github.com/ProbablyFaiz/club.rs"
 authors = [
     "Faiz Surani <faiz@faizsurani.com>"
 ]
-version = "0.1.0"
+keywords = ["clasp", "google-apps-script", "cli"]
+version = "0.1.1"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
